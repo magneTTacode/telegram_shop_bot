@@ -6,7 +6,7 @@ import mimetypes
 
 db_config = {
     'host': 'localhost',
-    'user': 'root',
+    'user': 'admin',
     'password': 'wFaEPSogZvh94bfu',
     'database': "tgbot"
 }
